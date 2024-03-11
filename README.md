@@ -10,6 +10,9 @@ Version1:
 Initial release. Includes functions for capturing data from RGBD Camera, mmWave radar and IMU. 
 
 config68.cfg : radar configuration file (designed waveform)
+
 capture_example.ipynb : A jupyter notebook example for data capture
+
 utils: utilities for capture and unit test functions
+
 Test_data: the path to save data
