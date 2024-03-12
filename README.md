@@ -1,6 +1,8 @@
 # Gesture_setup_code
+
 Author: Soheil Hor
-Date: March 5 2024
+
+Date: March 11 2024
 
 This repo includes example code and functions for capturing data using the multimodal hand gesture data capture setup developed at Stanford university as part of the Stanford-Samsung Metaverse collaboration.
 
